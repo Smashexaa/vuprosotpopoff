@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         yesButton2.addEventListener('click', function() {
             sendToDiscord("yayy, сега искаш ли да сме заедно?", "Да");
-            container.innerHTML = '<h1>yayy, чудесно!</h1>';
+            container.innerHTML = '<h1>Супер, любов! Сега сме заедно.</h1>';
         });
     });
 
